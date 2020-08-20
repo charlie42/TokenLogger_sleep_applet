@@ -1,0 +1,35 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "token_screen",
+    "question": "Token Screen",
+    "ui": {
+        "inputType": "radio",
+        "allow": [
+            "dontKnow"
+        ]
+    },
+    "responseOptions": {
+        "valueType": "xsd:integer",
+        "schema:minValue": 0,
+        "schema:maxValue": 3,
+        "multipleChoice": true,
+        "choices": [{
+            "@type": "schema:option",
+            "schema:name": "Going up to bed after being asked the first time",
+            "schema:value": 1
+        },
+        {
+            "schema:name": "Staying in her room the whole night",
+            "@type": "schema:option",
+            "schema:value": 2
+        },
+        {
+            "schema:name": "Sleeping with her light off / not having it be on in the morning",
+            "@type": "schema:option",
+            "schema:value": 3
+        }]
+    }
+}
