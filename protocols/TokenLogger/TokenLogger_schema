@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ChildMindInstitute/TokenLogger_sleep_applet/master/protocols/TokenLogger/TokenLogger_context"
     ],
     "@type": "reproschema:Protocol",
-    "@id": "TokenLogger_schema",
+    "@id": "TokenLogger_sleep_schema",
     "skos:prefLabel": "TokenLogger",
     "schema:description": "protocol for TokenLogger",
     "schema:schemaVersion": "0.0.1",
