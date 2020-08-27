@@ -1,11 +1,11 @@
 {
     "@context": [ "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
-        "https://raw.githubusercontent.com/ChildMindInstitute/TokenLogger_sleep_applet/master/activities/TokenActivity/TokenActivity_context"
+        "https://raw.githubusercontent.com/ChildMindInstitute/TokenLogger_sleep_applet/master/activities/TokenActivity_sleep/TokenActivity_sleep_context"
     ],
     "@type": "reproschema:Activity",
-    "@id": "TokenActivity_schema",
-    "skos:prefLabel": "TokenActivity Assessment",
-    "schema:description": "TokenActivity assessment schema",
+    "@id": "TokenActivity_sleep_schema",
+    "skos:prefLabel": "TokenActivity_sleep Assessment",
+    "schema:description": "TokenActivity_sleep assessment schema",
     "schema:schemaVersion": "0.0.1",
     "schema:version": "0.0.1",
     "scoringLogic": {},

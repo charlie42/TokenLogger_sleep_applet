@@ -1,7 +1,7 @@
 {
     "@context": {
         "@version": 1.1,
-        "token": "https://raw.githubusercontent.com/ChildMindInstitute/TokenLogger_sleep_applet/master/activities/TokenActivity/items/",
+        "token": "https://raw.githubusercontent.com/ChildMindInstitute/TokenLogger_sleep_applet/master/activities/TokenActivity_sleep/items/",
         "token_screen": {
             "@id": "token:token_screen",
             "@type": "@id"

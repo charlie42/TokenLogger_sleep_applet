@@ -2,8 +2,8 @@
     "@context": {
         "@version": 1.1,
         "activity_path": "https://raw.githubusercontent.com/ChildMindInstitute/TokenLogger_sleep_applet/master/activities/",
-        "TokenActivity_schema": {
-            "@id": "activity_path:TokenActivity/TokenActivity_schema",
+        "TokenActivity_sleep_schema": {
+            "@id": "activity_path:TokenActivity_sleep/TokenActivity_sleep_schema",
             "@type": "@id"
         }
     }

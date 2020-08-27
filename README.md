@@ -1,2 +1,2 @@
 # TokenLogger_sleep_applet
-MindLogger TokenLogger applet for tracking sleep anxiety
+MindLogger TokenLogger_sleep applet for tracking sleep anxiety
