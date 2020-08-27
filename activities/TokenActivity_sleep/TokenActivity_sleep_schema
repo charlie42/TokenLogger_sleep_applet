@@ -1,6 +1,6 @@
 {
     "@context": [ "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
-        "https://raw.githubusercontent.com/charlie42/TokenLogger_sleep_applet/master/activities/TokenActivity_sleep/TokenActivity_sleep_context"
+        "https://raw.githubusercontent.com/charlie42/TokenLogger_sleep_applet/test/activities/TokenActivity_sleep/TokenActivity_sleep_context"
     ],
     "@type": "reproschema:Activity",
     "@id": "TokenActivity_sleep_schema",
